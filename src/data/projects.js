@@ -50,7 +50,7 @@ const projects = [
     imageSrc: "https://images.unsplash.com/photo-1521334884684-d80222895322?auto=format&fit=crop&w=800&q=80",
     description: "An e-commerce website for clothing built using HTML, CSS, and JavaScript. Features product listings, filtering, and a user-friendly shopping experience.",
     demo: "https://sanjayvvarma.github.io/E-Commerce-Clothing",
-    source: "https://github.com/your-username/clothing-ecommerce"
+    source: "https://github.com/SanjayvVarma/E-Commerce-Clothing"
   }
 ]
 
