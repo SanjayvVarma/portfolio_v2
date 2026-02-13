@@ -31,8 +31,8 @@ const projects = [
     title: "Personal Portfolio v1",
     imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmEEw12ehjg103P5Me-w6wCDHoGtXcTCO8Ig&s",
     description: "A modern, responsive portfolio website built with React to showcase my projects, skills, and experiences in a clean and professional layout.",
-    demo: "https://your-portfolio-link.com",
-    source: "https://github.com/your-username/portfolio"
+    demo: "https://portfolio-sanjay-varma.vercel.app/",
+    source: "https://github.com/SanjayvVarma/portfolio_v1"
   },
 
   {
